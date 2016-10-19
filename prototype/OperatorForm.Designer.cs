@@ -122,7 +122,7 @@
             this.label4.Location = new System.Drawing.Point(240, 310);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 28);
+            this.label4.Size = new System.Drawing.Size(70, 28);
             this.label4.TabIndex = 52;
             this.label4.Text = "0-без ограничений";
             // 
